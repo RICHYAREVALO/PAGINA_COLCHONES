@@ -16,6 +16,13 @@ header {
   text-align: right;
 }
 
+.carrito_co {
+  position: absolute;
+  right: 60px;
+  top: 20px;
+  font-size: 40px;
+}
+
 .logo {
   width: 120px;
   height: 120px;
